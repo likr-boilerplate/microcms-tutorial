@@ -1,0 +1,31 @@
+{
+  "name": "honkit-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "honkit build",
+    "start": "honkit serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/likr-boilerplate/honkit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/likr-boilerplate/honkit/issues"
+  },
+  "homepage": "https://github.com/likr-boilerplate/honkit#readme",
+  "devDependencies": {
+    "gitbook-plugin-ace": "^0.3.2",
+    "gitbook-plugin-hide-published-with": "0.0.1",
+    "gitbook-plugin-include-codeblock": "^3.2.2",
+    "gitbook-plugin-mathjax-pro": "0.0.6",
+    "honkit": "^3.6.5",
+    "prettier": "^2.1.1"
+  },
+  "dependencies": {
+    "mathjax": "^2.7.9"
+  }
+}

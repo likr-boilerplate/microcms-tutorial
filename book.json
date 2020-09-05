@@ -1,0 +1,8 @@
+{
+  "plugins": ["include-codeblock", "ace", "hide-published-with", "mathjax-pro"],
+  "pluginsConfig": {
+    "include-codeblock": {
+      "template": "ace"
+    }
+  }
+}
